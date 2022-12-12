@@ -13,7 +13,7 @@ int main(void)
 {
 
 	int n;
-	
+
 	int m;
 
 	srand(time(0));
