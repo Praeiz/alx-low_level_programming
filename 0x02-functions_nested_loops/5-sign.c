@@ -2,12 +2,9 @@
 
 /**
  * print sign - function that prints the sign of a number
- *
  * @n: The input number to check
- *
  * Return: int.
  */
-
 int print_sign(int n)
 {
 	if (n > 0)
